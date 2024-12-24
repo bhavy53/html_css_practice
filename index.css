@@ -1,0 +1,112 @@
+.main {
+    text-align: center;
+    background-color:blue;
+    color: white;
+}
+.pag {
+    text-align: center;
+    background-color:blue;
+    color: white;
+}
+
+img{
+    margin-left: 35%;
+    cursor: pointer;
+}
+#text{
+     text-decoration: none;
+     color: red;
+}
+.k{
+    border: solid black ;
+    padding:20px;
+    margin-left: 500px;
+    width: fit-content;
+    list-style: none;
+
+}
+.mn{
+    
+    border: solid black ;
+    padding:20px;
+    margin-left: 500px;
+    width: fit-content;
+    list-style: none;
+
+}
+ form{
+    /* border: solid 2px red; */
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    line-height: 40px;
+    /* box-shadow: 10px 10px 100px; */
+    
+   
+
+
+}
+
+form label{
+     color:rgb(255,255,255); 
+    
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+
+input{
+    border-radius: 20px;
+    text-align: center;
+    background: white;
+
+}
+
+.btn{
+    width: 150px;
+    height: 40px;
+}
+.btn:hover{
+     scale: 1.2;
+     cursor: pointer;
+}
+.btnp{
+    display: flex;
+    justify-content: center;
+}
+
+/* .i1{
+    margin-left: 60px;
+    border-radius: 20px;
+    
+}
+.i2{
+    margin-left: 38px;
+} */
+ .rf{
+    color: white;
+    border: 5px solid black;
+    box-shadow: 5px 5px 50px ;
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+ }
+
+
+
+

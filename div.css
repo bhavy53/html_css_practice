@@ -1,0 +1,75 @@
+.yellow{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    
+}
+.aquva{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    
+}
+
+.green{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    
+}
+
+.row1{
+    display: flex;  
+    flex-direction: row;   /* to according to row,colum */
+    justify-content: space-around;   /* to justified to center,space-around,space bitween */
+
+
+}
+
+.black{
+    border: 2px solid black;
+    height: 150px;
+    width: 300px;
+    background-color: black;
+    
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.blue{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    
+}
+
+.pink{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    background-color: pink;
+    
+}
+
+.row3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.main{
+    border: 2px solid black;
+    padding: 20px;
+    background-color: blanchedalmond;
+}
+
+
